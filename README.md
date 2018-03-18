@@ -5,5 +5,5 @@ go to my youtube channel
 
 go to my website
 
-<a href="https://gamingdoom.github.io/gamingdoom-web/ "style="font-family:"Lucida Sans Unicode", Lucida Grande, sans-serif;	
+<a href="https://gamingdoom.github.io/gamingdoom-web/ 	
 ">press this</a>
