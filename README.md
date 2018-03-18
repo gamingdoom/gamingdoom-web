@@ -5,4 +5,4 @@ go to my youtube channel
 
 go to my website
 
-<a href="https://www.gamingdoom.com">press this</a>
+<a href="https://gamingdoom.github.io/gamingdoom-web/">press this</a>
