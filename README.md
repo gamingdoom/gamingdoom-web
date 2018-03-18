@@ -3,12 +3,12 @@
 This has the files to my website.
 Go to my Youtube channel
 
-<a href="https://www.youtube.com/channel/UChwyLZl8hIbeiRhvFFdZyzQ">press this</a>
+<a href="https://www.youtube.com/channel/UChwyLZl8hIbeiRhvFFdZyzQ">Press this</a>
 
 Go to my website
 
 <a href="https://gamingdoom.github.io/gamingdoom-web/ 	
-">press this</a>
+">Press this</a>
 
 </p>
 
